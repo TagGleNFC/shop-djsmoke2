@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome do Drum Kit - Dj Smoke</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/drumkit-page.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <img src="imgs/logo.png" alt="Logo Smoke" class="logo-image">
+            </a>
+            <div class="nav-menu" id="nav-menu">
+                <a href="index.html" class="nav-link">Início</a>
+                <div class="nav-item-dropdown">
+                    <a href="#" class="nav-link active">Catálogos <span class="dropdown-arrow">▼</span></a>
+                    <div class="dropdown-menu">
+                        <a href="beats.html" class="dropdown-link">Beats</a>
+                        <a href="presets.html" class="dropdown-link">Presets</a>
+                        <a href="drumkits.html" class="dropdown-link">Drum Kits</a>
+                        <a href="samplepacks.html" class="dropdown-link">Sample Packs</a>
+                    </div>
+                </div>
+                <a href="sobre.html" class="nav-link">Sobre Mim</a>
+                <a href="https://wa.me/5511912679324?text=Ol%C3%A1%20Dj%20Smoke%2C%20vi%20seu%20contato%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20seu%20trabalho." class="btn btn-primary btn-sm" target="_blank" rel="noopener noreferrer">Contato</a>
+            </div>
+            <div class="nav-toggle" id="nav-toggle">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+    <main id="drumkit-content-wrapper">
+        <header class="drumkit-hero">
+             <div class="hero-logo-container">
+                <a href="index.html">
+                    <img src="imgs/logo-hero.png" alt="Logo Smoke" class="hero-logo-image">
+                </a>
+            </div>
+            <div class="container drumkit-grid">
+                <div class="drumkit-info">
+                    <h1 class="drumkit-title">Carregando...</h1>
+                    <p class="drumkit-genre-tag">Carregando...</p>
+                    <p class="drumkit-description-text">Carregando...</p>
+                    <button class="btn btn-primary btn-lg btn-purchase">Quero Adquirir</button>
+                </div>
+                <div class="drumkit-artwork">
+                    <img src="imgs/placeholder.png" alt="Capa do Drum Kit" class="drumkit-image">
+                </div>
+            </div>
+        </header>
+        <section class="video-showcase-section">
+            <div class="container">
+                <h2 class="section-title">Confira o Kit em Ação</h2>
+                <div class="video-container">
+                    <video controls class="drumkit-showcase-video"></video>
+                </div>
+            </div>
+        </section>
+        <section class="purchase-section" id="purchase-section">
+            <div class="container">
+                <h2 class="section-title">ADQUIRA O SEU KIT</h2>
+                <div class="purchase-box">
+                    <div class="purchase-image">
+                        <img src="imgs/placeholder.png" alt="Capa do Drum Kit" class="drumkit-image-purchase">
+                    </div>
+                    <div class="purchase-details">
+                        <h3 class="purchase-title">Carregando...</h3>
+                        <p class="purchase-description">Carregando...</p>
+                        <div class="price-tag">
+                            <span class="price-label">PREÇO</span>
+                            <span class="price-value">R$ 0,00</span>
+                        </div>
+                        <button class="btn btn-primary btn-lg btn-purchase">COMPRAR AGORA</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <div class="footer-logo">
+                        <img src="imgs/logo.png" alt="Logo Smoke" class="logo-image">
+                    </div>
+                    <p class="footer-description">
+                        Produzindo beats de alta qualidade para artistas ao redor do mundo. 
+                        Transformando ideias em música desde 2020.
+                    </p>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h3 class="footer-title">Navegação</h3>
+                        <ul class="footer-list">
+                            <li><a href="index.html">Início</a></li>
+                            <li><a href="beats.html">Beats</a></li>
+                            <li><a href="sobre.html">Sobre Mim</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Andrade Dev. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="js/data-drumkits.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/drumkit-page.js"></script>
+</body>
+</html>
