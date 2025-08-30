@@ -58,7 +58,7 @@ const allPresets = [
     title: "Preset de Voz 'Don Juan'",
     highlightedSubtitle: "O timbre perfeito para suas produções de funk.",
     price: 199.90,
-    purchaseLink: "https://pay.kirvano.com/1cff6469-4fe8-434c-be7a-fcf118412bb9", // Link adicionado
+    purchaseLink: "https://pay.kirvano.com/b85429b7-1b66-4629-a87c-673a52eabce7", // Link adicionado
     image: "imgs/capadonjuan.jpg",
     audio: "audios/previadonjuan.mp3",
     description: "Encontre o som autêntico do funk com o preset do 'Mc Don Juan'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo.",
@@ -85,7 +85,7 @@ const allPresets = [
     title: "Preset de Voz 'Fontes'",
     highlightedSubtitle: "O timbre perfeito para suas produções de trap.",
     price: 199.90,
-    purchaseLink: "https://pay.kirvano.com/1cff6469-4fe8-434c-be7a-fcf118412bb9", // Link adicionado
+    purchaseLink: "https://pay.kirvano.com/9b47687f-58f8-4a56-95ed-7efab5b6366a", // Link adicionado
     image: "imgs/capafontes.JPG",
     audio: "audios/presetfontes.mp3",
     description: "Encontre o som autêntico do trap com o preset do 'Fontes'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo.",
@@ -112,7 +112,7 @@ const allPresets = [
     title: "Preset de Voz 'CJOTA'",
     highlightedSubtitle: "O timbre perfeito para suas produções de trap.",
     price: 199.90,
-    purchaseLink: "https://pay.kirvano.com/1cff6469-4fe8-434c-be7a-fcf118412bb9", // Link adicionado
+    purchaseLink: "https://pay.kirvano.com/5ddb9780-0a47-48a6-ab3c-d8a03eb9209a", // Link adicionado
     image: "imgs/capacjota.jpg",
     audio: "audios/previacjota.mp3",
     description: "Encontre o som autêntico do trap com o preset do 'CJOTA'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo.",
