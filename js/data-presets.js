@@ -7,7 +7,7 @@ const allPresets = [
     purchaseLink: "https://pay.kirvano.com/6cf5b09c-fbeb-4192-8329-1f9cfe8a9a8c", // Link adicionado
     image: "imgs/capa5bandidas2.jpg",
     audio: "audios/preset5bandidas.mp3",
-    description: "Eleve a qualidade da sua voz com o preset do 'Mc Pedrinho'. Projetado para dar brilho, presença e o punch necessário para suas tracks de Trap e Funk. Compatível com plugins nativos do FL Studio.",
+    description: "Eleve a qualidade da sua voz com o preset do 'Mc Pedrinho'. Projetado para dar brilho, presença e o punch necessário para suas tracks de Trap e Funk.",
     packageItems: {
       totalValue: 800.00,
       items: [
@@ -34,7 +34,7 @@ const allPresets = [
     purchaseLink: "https://pay.kirvano.com/1cff6469-4fe8-434c-be7a-fcf118412bb9", // Link adicionado
     image: "imgs/capamcmagal.jpg",
     audio: "audios/presetmcmagal.mp3",
-    description: "Encontre o som autêntico do funk com o preset do 'Mc Magal'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo. Compatível com plugins nativos do FL Studio.",
+    description: "Encontre o som autêntico do funk com o preset do 'Mc Magal'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo.",
     packageItems: {
       totalValue: 800.00,
       items: [
@@ -61,7 +61,7 @@ const allPresets = [
     purchaseLink: "https://pay.kirvano.com/1cff6469-4fe8-434c-be7a-fcf118412bb9", // Link adicionado
     image: "imgs/capadonjuan.jpg",
     audio: "audios/previadonjuan.mp3",
-    description: "Encontre o som autêntico do funk com o preset do 'Mc Don Juan'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo. Compatível com plugins nativos do FL Studio.",
+    description: "Encontre o som autêntico do funk com o preset do 'Mc Don Juan'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo.",
     packageItems: {
       totalValue: 800.00,
       items: [
@@ -88,7 +88,7 @@ const allPresets = [
     purchaseLink: "https://pay.kirvano.com/1cff6469-4fe8-434c-be7a-fcf118412bb9", // Link adicionado
     image: "imgs/capafontes.JPG",
     audio: "audios/presetfontes.mp3",
-    description: "Encontre o som autêntico do trap com o preset do 'Fontes'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo. Compatível com plugins nativos do FL Studio.",
+    description: "Encontre o som autêntico do trap com o preset do 'Fontes'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo.",
     packageItems: {
       totalValue: 800.00,
       items: [
@@ -115,7 +115,7 @@ const allPresets = [
     purchaseLink: "https://pay.kirvano.com/1cff6469-4fe8-434c-be7a-fcf118412bb9", // Link adicionado
     image: "imgs/capacjota.jpg",
     audio: "audios/previacjota.mp3",
-    description: "Encontre o som autêntico do trap com o preset do 'CJOTA'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo. Compatível com plugins nativos do FL Studio.",
+    description: "Encontre o som autêntico do trap com o preset do 'CJOTA'. Ideal para dar peso e clareza aos seus vocais, mantendo a fidelidade ao estilo.",
     packageItems: {
       totalValue: 800.00,
       items: [
